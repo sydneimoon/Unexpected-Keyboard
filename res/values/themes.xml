@@ -237,4 +237,20 @@
     <item name="emoji_color">?colorLabel</item>
     <item name="clipboard_divider_color">?colorKey</item>
  </style>
+  <style name="SimplyTheBest" parent="BaseTheme">
+    <item name="android:isLightTheme">false</item>
+    <item name="colorKeyboard">#11120f</item>
+    <item name="colorKey">#11120f</item>
+    <item name="colorKeyActivated">#1a1c16</item>
+    <item name="colorLabel">#6f7a69</item>
+    <item name="colorLabelActivated">#aab5e6</item>
+    <item name="colorLabelLocked">#f7768e</item>
+    <item name="colorSubLabel">#454d41</item>
+    <item name="keyBorderWidth">0.0dip</item>
+    <item name="keyBorderWidthActivated">0.0dip</item>
+    <item name="emoji_button_bg">?colorKeyActivated</item>
+    <item name="emoji_color">?colorLabel</item>
+    <item name="clipboard_divider_color">?colorKey</item>
+    <item name="navigationBarColor">#00000000</item>
+ </style>
 </resources>
